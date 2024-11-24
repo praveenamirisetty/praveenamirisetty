@@ -40,25 +40,23 @@
 
 ## 🛠 Technical Skills
 
-**Languages:** 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+**Programming Languages:** 
+Java(Advanced), Python(Basics), C Programming.
 
-**Backend:** 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+**Frameworks & Technologies:** 
+Spring Boot, Django, REST API.
 
 **Databases:** 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+MySQL, PostgreSQL, MongoDB.
 
-**DevOps:** 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+**Cloud & DevOps:** 
+AWS Services (EC2, S3, RDS, Lambda), Docker, Maven.
 
+**Testing & Tools:** 
+JUnit, Selenium, Postman, Git, GitHub.
+
+**Business Intelligence:** 
+Power BI, Tableau.
 
 ## 📃 Certifications 
 - AWS Certified Cloud Practitioner
