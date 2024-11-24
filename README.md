@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻 Praveen Kumar | Software Engineer</div>
+# <div align="center">👨‍💻 A. V. Praveen Kumar </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineer;Backend+Developer;Java+Programming+Enthusiast;Problem+Solver" alt="Typing SVG" />
