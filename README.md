@@ -17,21 +17,22 @@
 
 
 ## 🎓 Education
-- **B.Tech in Computer Science Engineering**
-  - KL University, Vijayawada
-  - CGPA: 9.5/10
+- **KL University, Vijayawada**
+  - B.Tech in Computer Science & Engineering
+  - Specialization: Data Science and Big Data Analytics
+  - CGPA: 9.5/10.0
   - 2022 - 2026
 
 ## 💼 Projects
 
-### 🌟 CertifyStack
+### 📃 CertifyStack
 - Professional Skill Certification Management System
 - Full-stack application for managing and verifying certificates
 - Tech Stack: Spring Boot, JSP, MySQL
 - Features: Track, Manage, Verify Certifications and Automatic Email Sending On Expiry Dates.
 - [View Project](https://github.com/avpkn25/CertifyStack-Frontend)
 
-### 🌟 DreamWheels
+### 🚗 DreamWheels
 - Car Showroom Management System
 - Enterprise application for managing Cars
 - Tech Stack: JSF, JSP, MySQL
@@ -41,22 +42,22 @@
 ## 🛠 Technical Skills
 
 **Programming Languages:** 
-Java(Advanced), Python(Basics), C Programming.
+ Java(Advanced), Python(Basics), C Programming.
 
 **Frameworks & Technologies:** 
-Spring Boot, Django, REST API.
+ Spring Boot, Django, REST API.
 
 **Databases:** 
-MySQL, PostgreSQL, MongoDB.
+ MySQL, PostgreSQL, MongoDB.
 
 **Cloud & DevOps:** 
-AWS Services (EC2, S3, RDS, Lambda), Docker, Maven.
+ AWS Services (EC2, S3, RDS, Lambda), Docker, Maven.
 
 **Testing & Tools:** 
-JUnit, Selenium, Postman, Git, GitHub.
+ JUnit, Selenium, Postman, Git, GitHub.
 
 **Business Intelligence:** 
-Power BI, Tableau.
+ Power BI, Tableau.
 
 ## 📃 Certifications 
 - AWS Certified Cloud Practitioner
@@ -93,5 +94,5 @@ Power BI, Tableau.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avpkn25&theme=tokyonight" alt="GitHub Streak" />
 </p> -->
 
----
-<p align="center">⭐️ From <a href="https://github.com/avpkn25" >[avpkn25]</a></p>
+<!-- ---
+<p align="center">⭐️ From <a href="https://github.com/avpkn25" >[avpkn25]</a></p> -->
