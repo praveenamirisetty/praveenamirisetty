@@ -33,7 +33,7 @@
 - Full-stack application for managing and verifying certificates
 - Tech Stack: Spring Boot, JSP, MySQL
 - Features: Track, Manage, Verify Certifications and Automatic Email Sending On Expiry Dates.
-- [View Project](https://github.com/avpkn25/CertifyStack-Frontend)
+- [View Project](https://github.com/avpkn25/CertifyStack)
 
 ### 🚗 DreamWheels
 - Car Showroom Management System
