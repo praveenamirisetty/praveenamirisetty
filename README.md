@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineer;Backend+Developer;Java+Programming+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=avpkn25&style=for-the-badge&color=blue)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avpkn25&label=Profile%20views&color=0e75b6&style=flat" alt="avpkn25" /> </p>
 
 
 ## 🚀 About Me
