@@ -23,7 +23,7 @@
 - **KL University, Vijayawada**
   - B.Tech in Computer Science & Engineering
   - Specialization: Data Science and Big Data Analytics
-  - CGPA: 9.53/10.0
+  - CGPA: 9.55/10.0
   - 2022 - 2026
 
 ## 💼 Projects
@@ -52,7 +52,7 @@
  Java(Advanced), Python(Basics), C Programming.
 
 **Frameworks & Technologies:** 
- Spring Boot, Django, REST API.
+ Spring Boot, Django, React, RESTFul API.
 
 **Databases:** 
  MySQL, PostgreSQL, MongoDB.
@@ -74,8 +74,7 @@
 
 ## 🏆 Achievements
 - 2⭐ on Codechef
-- 2⭐ on HackerRank (Java & Problem Solving)
-
+- 5⭐ in Java and 2⭐ in Python and Problem Solving on HackerRank
 
 ## 📊 Coding Profiles
 <p align="center">
