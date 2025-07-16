@@ -12,9 +12,9 @@
       <td align="left">
         <p>🎓 <strong>Computer Science Engineer</strong> passionate about building scalable backend systems.</p>
         <p>💻 Currently diving deep into the <strong>MERN Stack</strong> for full-stack development.</p>
-        <p>🌱 Focused on <strong>Java Programming</strong>, APIs, and system design.</p>
+        <p>🌱 Focused on <strong>Java Programming</strong>, APIs and system design.</p>
         <p>💡 Enthusiastic about <strong>Web Development</strong>, open-source, and solving real-world problems through code.</p>
-        <p>📫 Reach me at: <a href="mailto:2200030306cseh@gmail.com"><strong>2200030306cseh@gmail.com</strong></a></p>
+        <p>📫 Reach me at: <a href="https://mail.google.com/mail/u/0/?fs=1&to=praveenamirisetty25@gmail.com&tf=cm"><strong>praveenamirisetty25@gmail.com</strong></a></p>
       </td>
     </tr>
   </table>
@@ -26,26 +26,30 @@
     <tr>
       <th>Qualification</th>
       <th>Institution</th>
+      <th>Location</th>
       <th>Year</th>
-      <th>CGPA / Percentage</th>
+      <th>CGPA / %</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>B.Tech in Computer Science and Engineering</td>
-      <td>K L E F Deemed to be University, Vijayawada</td>
+      <td>B.Tech in Computer Science</td>
+      <td>K L E F Deemed to be University</td>
+      <td>Vijayawada</td>
       <td>2022 – 2026</td>
       <td>CGPA: 9.5</td>
     </tr>
     <tr>
       <td>Intermediate (MPC)</td>
-      <td>Sri Chaitanya Junior College, Kavali</td>
+      <td>Sri Chaitanya Junior College</td>
+      <td>Kavali</td>
       <td>2020 – 2022</td>
       <td>86.1%</td>
     </tr>
     <tr>
       <td>10th Standard</td>
-      <td>Sri Chaitanya Techno Curriculum, Kavali</td>
+      <td>Sri Chaitanya Techno Curriculum</td>
+      <td> Kavali</td>
       <td>2019 – 2020</td>
       <td>99.8%</td>
     </tr>
