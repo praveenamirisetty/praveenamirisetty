@@ -68,10 +68,58 @@
   </thead>
   <tbody>
     <tr>
+      <td>💱 Currency Calculator</td>
+      <td>Live currency converter with exchange rate API</td>
+      <td>React, Tailwind CSS, ExchangeRate API</td>
+      <td><a href="https://currency-calculator-rust.vercel.app/" target="_blank">View</a></td>
+    </tr>
+    <tr>
+      <td>🌐 Portfolio</td>
+      <td>Personal developer portfolio showcasing projects & skills</td>
+      <td>React, Tailwind CSS</td>
+      <td><a href="https://praveenamirisetty.me/" target="_blank">View</a></td>
+    </tr>
+    <tr>
       <td>📃 CertifyStack</td>
       <td>Certification Management System with email alerts on expiry</td>
       <td>Spring Boot, JSP, MySQL</td>
       <td><a href="https://github.com/avpkn25/CertifyStack" target="_blank">View</a></td>
+    </tr>
+    <tr>
+      <td>🚿 WASH Application</td>
+      <td>Water supply and sanitation management system</td>
+      <td>MERN Stack</td>
+      <td><a href="https://github.com/avpkn25/WASH" target="_blank">View</a></td>
+    </tr>
+    <tr>
+      <td>💸 Expense Tracker</td>
+      <td>Track and categorize daily expenses with local storage</td>
+      <td>React, Tailwind CSS</td>
+      <td><a href="https://expense-tracker-avpkn25.vercel.app/" target="_blank">View</a></td>
+    </tr>
+    <tr>
+      <td>📝 Todo App</td>
+      <td>Simple todo list with CRUD and completion toggle</td>
+      <td>HTML, CSS, JavaScript</td>
+      <td><a href="https://todo-app-two-sand-87.vercel.app/" target="_blank">View</a></td>
+    </tr>
+    <tr>
+      <td>🌦️ Weather Dashboard</td>
+      <td>Weather info dashboard using OpenWeatherMap API</td>
+      <td>React, Tailwind CSS, OpenWeatherMap API</td>
+      <td><a href="https://weather-dashboard-tau-orcin.vercel.app/" target="_blank">View</a></td>
+    </tr>
+    <tr>
+      <td>🎬 Movies App</td>
+      <td>Movie Application with all type filters</td>
+      <td>MERN Stack, Tailwind CSS</td>
+      <td><a href="https://github.com/avlpkn25/movies-app" target="_blank">View</a></td>
+    </tr>
+    <tr>
+      <td>💬 Chat Application</td>
+      <td>Real-time chat app with WebSocket support</td>
+      <td>MERN Stack, Socket.io</td>
+      <td><a href="https://github.com/avpkn25/CHAT-APP" target="_blank">View</a></td>
     </tr>
     <tr>
       <td>🚗 DreamWheels</td>
@@ -81,6 +129,7 @@
     </tr>
   </tbody>
 </table>
+
 
 <h2 align="center">🛠 Technical Skills 🛠</h2>
 <table border="1" cellspacing="0" cellpadding="10" align="center">
